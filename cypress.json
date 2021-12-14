@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://digikala.com",
+  "modifyObstructiveCode": true,
+  "viewportHeight": 1000,
+  "viewportWidth": 1000,
+  "video": true,
+  "videoCompression": 0,
+  "reporter": "junit",
+  "projectId": "digikala",
+  "nodeVersion": "system",
+  "experimentalSourceRewriting": false
+}
